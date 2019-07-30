@@ -1,2 +1,2 @@
 # whenAway
-An app that plans your trip for you
+An app that plans your trip for you.
