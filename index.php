@@ -14,7 +14,6 @@
 
 <body>
 
-<?php phpinfo(); ?>
 
   <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
   <script src="js/scripts.js"></script>
